@@ -23,3 +23,4 @@ Azure Cost Monitoring
 <img width="1440" alt="Screen Shot 2024-09-15 at 10 04 34 PM" src="https://github.com/user-attachments/assets/a1701fce-5399-465b-b89a-a94e124a4af3">
 
 Based on creating VM and navigating the costs, it was easier to use GCP
+There was not a cost for GCP, could it be because it only ran for a short period?
