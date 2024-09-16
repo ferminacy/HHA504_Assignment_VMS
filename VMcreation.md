@@ -9,3 +9,12 @@ GCP Stopped
 
 GCP Cost Monitoring
 <img width="1440" alt="Screen Shot 2024-09-15 at 8 49 54 PM" src="https://github.com/user-attachments/assets/d7281c39-49fc-4ce3-b960-00354f4d518f">
+
+Azure VM Creation
+<img width="1440" alt="Screen Shot 2024-09-15 at 9 27 30 PM" src="https://github.com/user-attachments/assets/773fa2f4-2571-4584-a6a2-aef3714c885f">
+
+Azure VM Deployment
+<img width="1440" alt="Screen Shot 2024-09-15 at 9 30 19 PM" src="https://github.com/user-attachments/assets/9612ce3f-2512-4322-ae5b-9cbe91e018c8">
+
+Azure Stopped
+<img width="1440" alt="Screen Shot 2024-09-15 at 9 36 56 PM" src="https://github.com/user-attachments/assets/4d583c86-1b99-407a-8dda-2c398386d2bd">
