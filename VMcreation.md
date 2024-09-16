@@ -18,3 +18,7 @@ Azure VM Deployment
 
 Azure Stopped
 <img width="1440" alt="Screen Shot 2024-09-15 at 9 36 56 PM" src="https://github.com/user-attachments/assets/4d583c86-1b99-407a-8dda-2c398386d2bd">
+
+Azure Cost Monitoring
+
+Based on creating VM and navigating the costs, it was easier to use GCP
